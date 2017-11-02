@@ -1,0 +1,8 @@
+1.מורידים NODEJS
+2.פותחים פרויקט חדש
+3.עושים npm init
+ומלא אנטרים
+4.משתמשים בפקודה npm install --save express
+כדי להתקין express
+5. משתמשים בפקודה npm install --save socket.io
+6. כשנרצה להריץ את השרת נשתמש בפקודה: nodeServerFileName.js
